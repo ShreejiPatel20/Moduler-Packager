@@ -1,6 +1,6 @@
 # 🛠️ Multi-Utility Toolkit
 
-A modular Python command-line application that bundles everyday utility functions into a clean, interactive console interface. The project demonstrates the usage of Python standard libraries (`datetime`, `time`, `math`, `random`, `uuid`) alongside custom packages for mathematical operations and file manipulation[cite: 1, 2, 3, 4].
+A modular Python command-line application that bundles everyday utility functions into a clean, interactive console interface. The project demonstrates the usage of Python standard libraries (`datetime`, `time`, `math`, `random`, `uuid`) alongside custom packages for mathematical operations and file manipulation.
 
 ---
 
